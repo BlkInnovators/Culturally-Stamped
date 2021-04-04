@@ -15,6 +15,7 @@
 		42B06F6F2611677C00B92B6E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42B06F6D2611677C00B92B6E /* LaunchScreen.storyboard */; };
 		42B06F7A2611677D00B92B6E /* Culturally_StampedTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B06F792611677D00B92B6E /* Culturally_StampedTests.swift */; };
 		42B06F852611677D00B92B6E /* Culturally_StampedUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B06F842611677D00B92B6E /* Culturally_StampedUITests.swift */; };
+		6FB5093B261A3BB90043BE0F /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FB5093A261A3BB90043BE0F /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		42B06F802611677D00B92B6E /* Culturally-StampedUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Culturally-StampedUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		42B06F842611677D00B92B6E /* Culturally_StampedUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Culturally_StampedUITests.swift; sourceTree = "<group>"; };
 		42B06F862611677D00B92B6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6FB5093A261A3BB90043BE0F /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				42B06F6B2611677C00B92B6E /* Assets.xcassets */,
 				42B06F6D2611677C00B92B6E /* LaunchScreen.storyboard */,
 				42B06F702611677C00B92B6E /* Info.plist */,
+				6FB5093A261A3BB90043BE0F /* LoginViewController.swift */,
 			);
 			path = "Culturally-Stamped";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6FB5093B261A3BB90043BE0F /* LoginViewController.swift in Sources */,
 				42B06F672611677B00B92B6E /* ViewController.swift in Sources */,
 				42B06F632611677B00B92B6E /* AppDelegate.swift in Sources */,
 				42B06F652611677B00B92B6E /* SceneDelegate.swift in Sources */,
