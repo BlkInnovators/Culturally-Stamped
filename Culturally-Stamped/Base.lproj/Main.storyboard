@@ -30,6 +30,14 @@
                                     <action selector="OnLoginButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="wG3-gv-uOB"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WWt-nk-VjX">
+                                <rect key="frame" x="94" y="495" width="231" height="164"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Zapfino" family="Zapfino" pointSize="45"/>
+                                <state key="normal" title="Sign Up">
+                                    <color key="titleColor" red="0.34810692069999999" green="0.2204914093" blue="0.17253756519999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                </state>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
