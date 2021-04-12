@@ -4,13 +4,11 @@
 
 The following **required** functionality is completed:
 
-[x] User can register a new account 
+[x] User can scroll through important resources in a list
  
-[x] User can log in 
+[x] User can view their identity and stats
  
-[x]User can post Stamps
- 
-[x] User can view and save Stamps
+[x] User can edit profile
 
 
 ### App Walkthrough GIF
