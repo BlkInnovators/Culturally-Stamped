@@ -7,13 +7,13 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-[x] User can scroll through important resources in a list
+[x] User Login Failed Error
  
-[x] User can view their identity and stats
+[x] User Sign In Failed
  
-[x] User can edit profile
+[x] User Launch Screen
 
 
 ### App Walkthrough GIF
 
-<img src="https://github.com/BlkInnovators/Culturally-Stamped/blob/main/ezgif.com-video-to-gif.gif" width=250><br>
+<img src="https://github.com/BlkInnovators/Culturally-Stamped/blob/main/ezgif.com-crop.gif" width=250><br>
